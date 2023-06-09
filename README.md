@@ -12,6 +12,7 @@ This project aims to analyze and visualize energy consumption trends across the 
 - [Data](#data))
 - [Methods](#methods)
 - [Results](#results)
+- [License](#License)
 
 ## Introduction
 
@@ -44,4 +45,5 @@ The results of this project include:
 - Visualizations: Time Series graphs showing energy consumption trends across boroughs.
 - Prediction Results: Forecasted electricity consumption values for each borough from 2016 to 2025.
 
-
+## License
+This project is licensed under the MIT License. Feel free to use and modify the code according to the terms of the license.
